@@ -47,8 +47,7 @@ This project demonstrates how data analysis can help understand business perform
 - Jupyter Notebook (.ipynb)  
 - Dataset  
 
-##  Author
-Akanksha Chaudhari
+
 ## 🙋‍♀️ Author
 Akanksha Chaudhari  
 
