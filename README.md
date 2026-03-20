@@ -36,11 +36,11 @@ The goal is to extract meaningful insights related to revenue, customer behavior
 - Certain categories contribute more to overall revenue  
 - Business shows stable performance across regions  
 
-## 📷 Visualizations
+##  Visualizations
 - Pie Chart (Sales Channel Distribution)  
 - Line Chart (Monthly Revenue Trend)  
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates how data analysis can help understand business performance, customer behavior, and sales trends, enabling better decision-making.
 
 ##  Project Files
